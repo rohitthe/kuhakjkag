@@ -9,11 +9,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/jstl-api-1.2-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/lib/commons-codec-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/lib/commons-logging-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/lib/httpclient-4.3-beta1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/lib/httpcore-4.4.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 2.2 (Mojarra 2.2.0)">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
@@ -25,8 +20,5 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Desktop/github-api-1.37.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Downloads/google-api-client-1.4.1-beta.jar.zip"/>
-	<classpathentry kind="lib" path="C:/Users/rohit.kumar63/Downloads/javagit-0.2.0.jar (1).zip"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
