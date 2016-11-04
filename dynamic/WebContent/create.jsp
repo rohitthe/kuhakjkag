@@ -42,7 +42,8 @@
   <h:inputText id="rohit" value="#{fhnx.jobName}"></h:inputText>
   <h:outputLabel>enter job url</h:outputLabel>
   <h:inputText id="rohit1" value="#{fhnx.joburl}"></h:inputText>
-  <h:commandButton value="submit" action="#{fhnx.rohit1}" ></h:commandButton>
+  <h:commandButton value="submit" action="#{fhnx.rohit1}"></h:commandButton>
+  <
   <h:commandButton value="back" action="body.jsp" styleClass="formdiv"></h:commandButton>
   </h:panelGrid>
 </h:form>

@@ -1,4 +1,4 @@
-package com.pack.service;
+package com.pack.serviceSDP;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
@@ -23,6 +23,6 @@ public void setJoburl(String joburl) {
 public void stop()
 {
 	String str1 ="http://localhost:8080/job/"+jobname;
-	Service.stop(str1);
+	ServiceSDP.stop(str1);
 }
 }

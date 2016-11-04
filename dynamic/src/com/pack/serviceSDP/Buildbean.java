@@ -1,4 +1,4 @@
-package com.pack.service;
+package com.pack.serviceSDP;
 
 
 import javax.faces.bean.ManagedBean;
@@ -22,6 +22,6 @@ public void build()
 	str1=str1+buildjob;
 	str1=str1+"/build";
 	System.out.println(str1);
-	Service.buildJob(str1);
+	ServiceSDP.buildJob(str1);
 }
 }

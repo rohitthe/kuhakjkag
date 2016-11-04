@@ -1,4 +1,4 @@
-package com.pack.service;
+package com.pack.serviceSDP;
 
 
 
@@ -24,7 +24,7 @@ public class Delete {
 		}
 		public void delete()
 		{
-			Service.deleteJob(jobNamedeleted, joburl);
+			ServiceSDP.deleteJob(jobNamedeleted, joburl);
 		}
 		
 	}

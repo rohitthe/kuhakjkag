@@ -36,9 +36,9 @@
 <f:view>
 <h:form>
 <h:panelGrid border="1" bgcolor="red" styleClass="formdiv" columns="4">
-<h:commandButton value="Create Project" action="create"></h:commandButton>
-<h:commandButton value="Build Agent" action="delete"></h:commandButton>
-<h:commandButton value="Build Step" action="start"></h:commandButton>
+<h:commandButton value="Create Project" action="createTeamCity"></h:commandButton>
+<h:commandButton value="Build Agent" action="deleteTeamCity"></h:commandButton>
+<h:commandButton value="Build Step" action="startTeamCity"></h:commandButton>
 
 </h:panelGrid>
 <br>
